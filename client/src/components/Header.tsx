@@ -21,7 +21,7 @@ export default function Header() {
       <div className="container flex h-[4.5rem] items-center justify-between">
         <button onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })} className="flex items-center gap-3 text-left focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#6B8E7F] focus-visible:ring-offset-4" aria-label="Voltar ao início">
           <span className="flex h-10 w-10 items-center justify-center overflow-hidden rounded-xl bg-[#06162f] shadow-[0_8px_18px_rgba(6,22,47,0.24)]">
-            <img src="/manus-storage/alem-do-equilibrio-logo-oficial_beb1b293.webp" alt="" className="h-16 w-16 max-w-none -translate-y-1 object-cover" />
+            <img src="/images/logo-alem-do-equilibrio.png" alt="" className="h-full w-full object-cover" />
           </span>
           <span className="hidden font-display text-lg font-semibold text-[#2C3E50] sm:inline">Além do Equilíbrio</span>
         </button>
