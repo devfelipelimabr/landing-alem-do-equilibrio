@@ -113,7 +113,7 @@ export default function Home() {
             <div className="grid gap-12 lg:grid-cols-[0.9fr_1.1fr] lg:items-center">
               <div className="relative min-h-[420px] overflow-hidden rounded-[2rem] bg-[#d4c5b0]">
                 <img
-                  src="/manus-storage/neurofunctional-balance-clinic_d82bf4f4.png"
+                  src="/images/equilibrio-clinica.jpg"
                   alt="Pessoa praticando marcha e equilíbrio dinâmico com supervisão de fisioterapeuta em reabilitação neurofuncional"
                   className="absolute inset-0 h-full w-full object-cover"
                   loading="lazy"
@@ -177,7 +177,7 @@ export default function Home() {
 
             <div className="mt-12 grid gap-5 overflow-hidden rounded-[1.5rem] border border-[#e6e2da] bg-[#f7f2eb] md:grid-cols-[0.85fr_1.15fr] md:items-center">
               <div className="relative h-56 overflow-hidden md:h-full md:min-h-56">
-                <img src="/manus-storage/neurofunctional-circuit-clinic_e6e77c77.png" alt="Pessoa realizando circuito terapêutico com cones, obstáculos baixos e step em reabilitação neurofuncional" className="absolute inset-0 h-full w-full object-cover" loading="lazy" />
+                <img src="/images/circuito-neurofuncional.jpg" alt="Pessoa realizando circuito terapêutico com cones, obstáculos baixos e step em reabilitação neurofuncional" className="absolute inset-0 h-full w-full object-cover" loading="lazy" />
                 <div className="absolute inset-0 bg-gradient-to-r from-[#2C3E50]/10 to-[#2C3E50]/35" />
                 <div className="absolute bottom-4 left-4 rounded-full bg-white/85 px-3 py-2 text-[0.65rem] font-semibold uppercase tracking-[0.12em] text-[#2C3E50]">Circuito neurofuncional</div>
               </div>
@@ -296,7 +296,7 @@ export default function Home() {
             <div className="max-w-sm">
               <div className="flex items-center gap-3">
                 <div className="flex h-10 w-10 items-center justify-center overflow-hidden rounded-xl bg-[#06162f] text-white">
-                  <img src="/manus-storage/alem-do-equilibrio-logo-oficial_beb1b293.webp" alt="" className="h-16 w-16 max-w-none -translate-y-1 object-cover" />
+                  <img src="/images/logo-alem-do-equilibrio.png" alt="" className="h-full w-full object-cover" />
                 </div>
                 <span className="font-display text-xl font-semibold">Além do Equilíbrio</span>
               </div>

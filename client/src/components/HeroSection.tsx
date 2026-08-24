@@ -12,7 +12,7 @@ export default function HeroSection() {
 
   return (
     <section className="relative flex min-h-[calc(100vh-4.5rem)] items-center overflow-hidden bg-[#2C3E50]">
-      <div className="absolute inset-0 bg-cover bg-center" style={{ backgroundImage: "url('/manus-storage/reabilitacao-neurofuncional-hero_6c9a072f.png')" }} aria-hidden="true">
+      <div className="absolute inset-0 bg-cover bg-center" style={{ backgroundImage: "url('/images/reabilitacao-neurofuncional-hero.jpg')" }} aria-hidden="true">
         <div className="absolute inset-0 bg-gradient-to-r from-[#1a2a35]/85 via-[#1f3340]/60 to-[#1f3340]/20" />
       </div>
       <div className="pointer-events-none absolute -right-28 top-24 h-80 w-[38rem] rotate-[18deg] rounded-[50%] border border-white/15" aria-hidden="true" />
